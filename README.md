@@ -8,4 +8,7 @@ Commit directly to the master branch
 
 我的修改位置在这里，my edit code channged here
 
-making some changes to our local git and pushing them to Github
+1.making some changes to our local git and pushing them to Github
+2.make the changes to our logcal git
+3.make the changes to our local git2
+
