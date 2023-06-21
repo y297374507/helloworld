@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Commit directly to the master branch
 
 我的修改位置在这里，my edit code channged here
+
+making some changes to our local git and pushing them to Github
